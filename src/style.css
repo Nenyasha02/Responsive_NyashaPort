@@ -90,6 +90,7 @@ h4 {
     }
 
     .project-container {
+        align-items: center;
         text-align: center;
     }
 }
